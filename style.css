@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(204, 193, 193);
+}
+
+
+h1 {
+    border: solid;
+    border-color: transparent;
+    text-align: center;
+    padding: 0;
+}
+table {
+    margin: auto;
+    margin-top: 15%;
+    border: solid;
+    width: 700px;
+    border-color: rgb(2, 2, 2);
+    margin-top: 100px;
+
+}
+tr {
+    text-align: center;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: large;
+}
+th {
+    border: solid;
+    border-color: rgb(2, 2, 2);
+    color: white;
+}
+
+td {
+    border: solid;
+    border-color: rgb(2, 2, 2);
+}
+
+.cata {
+   
+}
+.state {
+    color: rgb(62, 34, 34);
+}
+.rate {
+    color: darkcyan;
+}
+.ratio {
+    color: darkred;
+}
+.money {
+    color: green;
+}
